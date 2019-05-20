@@ -1,4 +1,4 @@
-# 2048-Game
+# 2048-Game (May 2018)
 
 This is the popular game 2048 implemented in Python
 
