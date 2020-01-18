@@ -11,4 +11,4 @@ This is the popular game 2048 implemented in Python
 Use w,a,s,d to move (need to press enter to move)
 
 ## Demo
-![](2048demo.png)
+<img src="2048demo.png" width=800>
